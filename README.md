@@ -1,7 +1,7 @@
 # my-notes
 
 ## Introduction
-***
+
 > My name is Suhaib Alnaji I'm A Computer science Gradute From Middle East University in Amman , Jordan And Currntly learning Javascript Software Development in LTUC-ASAC
 
 ## Developer mindset
